@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "58084114648",
+    "project_id": "phulbari-haitomns",
+    "storage_bucket": "phulbari-haitomns.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58084114648:android:84602b562c4c037fce17ad",
+        "android_client_info": {
+          "package_name": "com.haitomns.phulbari"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx-Oh4TzU5QQfKk2mPsF47fWLyeSW4GCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

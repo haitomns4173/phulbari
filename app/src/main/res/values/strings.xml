@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Phulbari</string>
+    <string name="splashscreenbackground">SplashScreenBackGround</string>
+    <string name="title_activity_dashboard">dashboard</string>
+    <string name="you_will_get_reminder_daily_to_water_your_plant_and_keep_them_in_sunlight_so_that_you_plant_are_health">You will get reminder daily to water your plant, and keep them in sunlight so that you plant are health.</string>
+    <string name="get_reminder_to_water">Get reminder to Water</string>
+    <string name="classify_flowers_with_ai">Classify Flowers with AI</string>
+    <string name="get_detailed_information_about_your_flowers_how_to_take_care_and_norture_your_flowers_with_our_app">Get detailed information about your flowers, how to take care and norture your flowers with our app.</string>
+    <string name="buttonright">ButtonRight</string>
+    <string name="onboarding_flower_one">OnBoarding Flower One</string>
+    <string name="welcome_back_to_your_account">Welcome Back to your account</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="done">Done</string>
+    <string name="full_name">Full Name</string>
+    <string name="sign_in">Sign In</string>
+    <string name="login_image_background">Login Image Background</string>
+    <string name="phulbari">Phulbari</string>
+    <string name="happy_flowers_happy_you">Happy Flowers, Happy You</string>
+    <string name="register_image_background">Register Image Background</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="create_your_new_account">Create your new account</string>
+    <string name="title_activity_homescreen">homescreen</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="scan">Scan</string>
+    <string name="watering">Watering</string>
+    <string name="profile">Profile</string>
+    <string name="update_you_profile">Update you profile</string>
+    <string name="update">Update</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="capture">Capture</string>
+</resources>
