@@ -1,5 +1,7 @@
 package com.haitomns.phulbari;
 
+import static java.security.AccessController.getContext;
+
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;

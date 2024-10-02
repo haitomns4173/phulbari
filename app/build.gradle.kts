@@ -32,11 +32,11 @@ android {
     }
     buildFeatures {
         viewBinding = true
+        mlModelBinding = true
     }
 }
 
 dependencies {
-
     implementation(libs.appcompat)
     implementation(libs.material)
     implementation(libs.activity)
@@ -51,6 +51,11 @@ dependencies {
     implementation(libs.androidx.camera.camera2.v122)
     implementation(libs.androidx.camera.lifecycle.v122)
     implementation(libs.androidx.camera.view.v122)
+    implementation(libs.material.v170)
+    implementation(libs.tensorflow.lite.support)
+    implementation(libs.tensorflow.lite.metadata)
+    implementation(libs.tensorflow.lite.gpu)
+    implementation(libs.firebase.database)
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)

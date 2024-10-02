@@ -7,7 +7,6 @@
     tools:context=".ui.profile.ProfileFragment">
 
     <TextView
-        android:id="@+id/text_profile"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
@@ -35,7 +34,6 @@
         app:layout_constraintVertical_bias="0.0" />
 
     <ImageView
-        android:id="@+id/imageView2"
         android:layout_width="200dp"
         android:layout_height="200dp"
         android:backgroundTintMode="add"
@@ -49,7 +47,6 @@
         app:layout_constraintVertical_bias="0.182" />
 
     <ImageView
-        android:id="@+id/imageView6"
         android:layout_width="350dp"
         android:layout_height="360dp"
         android:src="@drawable/round_corners_rectangle"
@@ -103,7 +100,7 @@
         app:layout_constraintVertical_bias="0.463" />
 
     <EditText
-        android:id="@+id/text_password"
+        android:id="@+id/textPassword"
         android:layout_width="315dp"
         android:layout_height="50dp"
         android:layout_alignParentEnd="true"
@@ -128,7 +125,7 @@
         app:layout_constraintVertical_bias="0.713" />
 
     <EditText
-        android:id="@+id/text_email"
+        android:id="@+id/textEmail"
         android:layout_width="315dp"
         android:layout_height="50dp"
         android:layout_alignParentEnd="true"
@@ -153,7 +150,7 @@
         app:layout_constraintVertical_bias="0.632" />
 
     <EditText
-        android:id="@+id/text_name"
+        android:id="@+id/textName"
         android:layout_width="315dp"
         android:layout_height="50dp"
         android:layout_alignParentEnd="true"

@@ -1,7 +1,6 @@
 <resources>
     <string name="app_name">Phulbari</string>
     <string name="splashscreenbackground">SplashScreenBackGround</string>
-    <string name="title_activity_dashboard">dashboard</string>
     <string name="you_will_get_reminder_daily_to_water_your_plant_and_keep_them_in_sunlight_so_that_you_plant_are_health">You will get reminder daily to water your plant, and keep them in sunlight so that you plant are health.</string>
     <string name="get_reminder_to_water">Get reminder to Water</string>
     <string name="classify_flowers_with_ai">Classify Flowers with AI</string>
@@ -32,6 +31,15 @@
     <string name="profile">Profile</string>
     <string name="update_you_profile">Update you profile</string>
     <string name="update">Update</string>
-    <string name="take_picture">Take Picture</string>
     <string name="capture">Capture</string>
+    <string name="flower_image">Flower Image</string>
+    <string name="flower_list">Flower List</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_flowers">Search flowers...</string>
+    <string name="iot_device">IOT Device</string>
+    <string name="data_section">Data Section</string>
+    <string name="soil_moisture_level_data">Soil Moisture Level Data</string>
+    <string name="watering_plant">Watering Plant</string>
+    <string name="plant_watering_status">Plant Watering Status</string>
 </resources>
